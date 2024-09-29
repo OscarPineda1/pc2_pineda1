@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\pc2_pineda1.props" />
+</Project>
